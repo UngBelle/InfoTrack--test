@@ -36,4 +36,3 @@ npm run test:ui
 ```
 npx playwright show-report
 ```
-# InfoTrack--test
